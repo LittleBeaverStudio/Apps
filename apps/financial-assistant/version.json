@@ -1,0 +1,10 @@
+{
+  "app": "financial-assistant",
+  "name": "小河狸财报助手",
+  "latest_version": "1.7.0",
+  "download_url": "https://littlebeaver.short.gy/VHBCeR",
+  "store_url": "https://apps.microsoft.com/detail/9PG13VD7JTGC?hl=zh-cn&gl=CN&ocid=pdpshare",
+  "feedback_url": "https://github.com/LittleBeaverStudio/Feedback/issues",
+  "release_notes": "新增软件更新提醒和反馈入口，便于安装包用户及时获取新版并提交使用建议。",
+  "force_update": false
+}
