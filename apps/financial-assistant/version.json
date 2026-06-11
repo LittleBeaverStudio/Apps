@@ -1,10 +1,10 @@
 {
   "app": "financial-assistant",
   "name": "小河狸财报助手",
-  "latest_version": "1.7.1",
+  "latest_version": "1.7.2",
   "download_url": "https://littlebeaver.short.gy/VHBCeR",
   "store_url": "https://apps.microsoft.com/detail/9PG13VD7JTGC?hl=zh-cn&gl=CN&ocid=pdpshare",
   "feedback_url": "https://github.com/LittleBeaverStudio/Feedback/issues",
-  "release_notes": "优化使用说明页反馈与支持布局，使反馈入口更醒目。",
+  "release_notes": "优化悬浮 AI 对话框拖拽、缩放和发送按钮样式，避免窗口拖出页面后无法缩小。",
   "force_update": false
 }
