@@ -1,11 +1,11 @@
 {
   "app": "invoice-assistant",
   "name": "小河狸发票助手",
-  "latest_version": "1.1.1",
+  "latest_version": "1.2.0",
   "download_url": "https://littlebeaver.short.gy/cFgKOr",
   "direct_download_url": "https://github.com/LittleBeaverStudio/Apps/releases/download/invoice-assistant-latest/littlebeaver-invoice-assistant-latest.exe",
-  "release_notes": "优化分析看板指标与图表显示、AI 问答图表和 PDF 导出、上传控件、分享权限中文显示和窗口拖拽体验。",
-  "sha256": "7b598d7e25b7a60249cd353025d2c0b95a8061dc88ff94753cd54b2c689ae8cb",
+  "release_notes": "新增多公司管理，导入、台账、分析看板和分享链接均支持按公司筛选；分享链接可选择单个或多个公司；公司名称支持新增和修改。",
+  "sha256": "b818e77093b61045fc28606ba961be770245d9edf8031aa5fff649dda50a0497",
   "force_update": false,
   "feedback_url": "https://github.com/LittleBeaverStudio/Feedback/issues"
 }
