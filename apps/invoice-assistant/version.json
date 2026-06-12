@@ -1,11 +1,11 @@
 {
   "app": "invoice-assistant",
   "name": "小河狸发票助手",
-  "latest_version": "1.2.1",
+  "latest_version": "1.2.3",
   "download_url": "https://littlebeaver.short.gy/cFgKOr",
   "direct_download_url": "https://github.com/LittleBeaverStudio/Apps/releases/download/invoice-assistant-latest/littlebeaver-invoice-assistant-latest.exe",
-  "release_notes": "加强发票导入校验：开具/取得方向选错会拒绝导入；公司主体税号不一致会拒绝导入；仅名称异常时继续导入并红色强提醒。",
-  "sha256": "47db74a390b7334bc80ee23fcefd6bff4cc0e1954e41c2812cd2879ef20ad277",
+  "release_notes": "修复导入方向和公司主体校验：开具/取得方向选错会拒绝导入，公司主体税号不一致会拒绝导入；同时优化安装升级时旧后台服务替换，避免页面仍显示旧版本。",
+  "sha256": "1758fa852133829614b40b91b8c017a39bab71083e5e4742512e7530e05239d7",
   "force_update": false,
   "feedback_url": "https://github.com/LittleBeaverStudio/Feedback/issues"
 }
