@@ -4,8 +4,8 @@
   "latest_version": "1.2.0",
   "download_url": "https://littlebeaver.short.gy/cFgKOr",
   "direct_download_url": "https://github.com/LittleBeaverStudio/Apps/releases/download/invoice-assistant-latest/littlebeaver-invoice-assistant-latest.exe",
-  "release_notes": "新增多公司管理，导入、台账、分析看板和分享链接均支持按公司筛选；分享链接可选择单个或多个公司；公司名称支持新增和修改。",
-  "sha256": "b818e77093b61045fc28606ba961be770245d9edf8031aa5fff649dda50a0497",
+  "release_notes": "新增多公司管理，导入、台账、分析看板和分享链接均支持按公司筛选；升级时会自动修复历史导入批次归属，并避免旧服务占用导致界面仍显示旧版本。",
+  "sha256": "a249261b955d0fe089960e2ae94fe830650a0ac3e339c393f73d674387942b5c",
   "force_update": false,
   "feedback_url": "https://github.com/LittleBeaverStudio/Feedback/issues"
 }
