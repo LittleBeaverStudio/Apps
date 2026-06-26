@@ -1,11 +1,11 @@
 {
   "app": "invoice-assistant",
   "name": "小河狸发票助手",
-  "latest_version": "1.2.9",
+  "latest_version": "1.2.10",
   "download_url": "https://littlebeaver.short.gy/cFgKOr",
   "direct_download_url": "https://littlebeaver.short.gy/cFgKOr",
-  "release_notes": "新增本机 Skill API，可供 OpenClaw、WorkBuddy 等智能体读取本机发票台账；优化发票台账筛选行，支持日历图标选择日期范围和单位名称合并检索；修复 AI 本地统计对购销方名称、状态和自然语言“开具/收到”语义的识别；辅助子表检索同步支持日期、状态、发票号码和单位名称筛选。",
-  "sha256": "8187f3ecc7c4adf71e6faa11cacf1a63cace9090b6d8cc90dad95e0bf0c9b4d7",
+  "release_notes": "增强更新检查可靠性：新增本机后端代理检查更新，并增加 GitHub Raw 与 JSDelivr 多地址兜底，减少网络或浏览器策略导致的无提示情况；保留 1.2.9 的本机 Skill API、发票台账筛选和 AI 本地统计优化。",
+  "sha256": "29b7b444d8777e030740d3a7d68c503a2f8a4553f7f574f09c2a8d04a9fc53f1",
   "force_update": false,
   "feedback_url": "https://github.com/LittleBeaverStudio/Feedback/issues"
 }
