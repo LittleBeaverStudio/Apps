@@ -1,11 +1,11 @@
 {
     "app":  "invoice-assistant",
     "name":  "小河狸发票助手",
-    "latest_version":  "1.3.0",
+    "latest_version":  "1.3.2",
     "download_url":  "https://littlebeaver.short.gy/cFgKOr",
     "direct_download_url":  "https://littlebeaver.short.gy/cFgKOr",
-    "release_notes":  "新增入账日期、凭证号和电子发票归档：支持打开发票文件夹、扫描 PDF/OFD/XML 并按发票号码自动关联；台账可直接查看已归档电子发票，导出结果包含附件信息；本机 Skill API 增加附件清单和本机打开能力。",
-    "sha256":  "8b832d8a163436537b0d704b527f4bd3d1ce32b4a9673d4752f3e3ce1de0f5e1",
+    "release_notes":  "新增本机访问保护，可设置本机访问密码；入账日期改为日期框并优化格式校验；电子发票归档支持 PDF/OFD/XML 自动关联和台账查看；台账压缩入账字段与查看发票入口，分析看板图表刷新更稳定。",
+    "sha256":  "9E8FF28F369A380C9D7EE9D2CA69AA15709937066E1C1003B1A5C5124399401F",
     "force_update":  false,
     "feedback_url":  "https://github.com/LittleBeaverStudio/Feedback/issues"
 }
