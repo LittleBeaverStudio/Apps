@@ -1,11 +1,11 @@
 {
     "app":  "invoice-assistant",
     "name":  "小河狸发票助手",
-    "latest_version":  "1.3.3",
+    "latest_version":  "1.3.4",
     "download_url":  "https://littlebeaver.short.gy/cFgKOr",
     "direct_download_url":  "https://littlebeaver.short.gy/cFgKOr",
-    "release_notes":  "发票台账新增入账状态筛选，支持快速查看已入账和未入账发票；底部筛选合计增加已入账、未入账数量；发票明细移除入账日期和凭证号展示，避免同一发票多行重复维护；分页文案改为总页数，台账表格区域加高。",
-    "sha256":  "9EFE8B06DD1A0C3DA8DE153F2E2F1F0A40DD24F61F46F1902F2705D119582FAD",
+    "release_notes":  "优化入账信息连续录入：入账日期改为可快速输入的文本框，支持 20260705、2026-7-5、2026/7/5、0705 等格式并自动规范为 yyyy-mm-dd；入账日期和凭证号支持 Enter 保存并跳到下一行同列。",
+    "sha256":  "C5FBA1FCD69005638F541F80C0009337ED247A47D871735D4C3E0B3B64207548",
     "force_update":  false,
     "feedback_url":  "https://github.com/LittleBeaverStudio/Feedback/issues"
 }
