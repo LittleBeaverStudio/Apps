@@ -1,11 +1,11 @@
 {
-    "app":  "invoice-assistant",
-    "name":  "小河狸发票助手",
-    "latest_version":  "1.3.4",
-    "download_url":  "https://littlebeaver.short.gy/cFgKOr",
-    "direct_download_url":  "https://littlebeaver.short.gy/cFgKOr",
-    "release_notes":  "优化入账信息连续录入：入账日期改为可快速输入的文本框，支持 20260705、2026-7-5、2026/7/5、0705 等格式并自动规范为 yyyy-mm-dd；入账日期和凭证号支持 Enter 保存并跳到下一行同列。",
-    "sha256":  "C5FBA1FCD69005638F541F80C0009337ED247A47D871735D4C3E0B3B64207548",
-    "force_update":  false,
-    "feedback_url":  "https://github.com/LittleBeaverStudio/Feedback/issues"
+  "app": "invoice-assistant",
+  "name": "小河狸发票助手",
+  "latest_version": "1.3.5",
+  "download_url": "https://littlebeaver.short.gy/cFgKOr",
+  "direct_download_url": "https://littlebeaver.short.gy/cFgKOr",
+  "release_notes": "发票台账筛选优化：状态支持多选，可同时筛选正常、作废、红冲；票种改为宽弹层多选，长票种名称可完整查看，并支持多个票种联合筛选；底部合计、导出和辅助子表状态筛选同步适配。",
+  "sha256": "3C25926BCFE9A341DC5D078AE2B8DABA4CE4E19F6E2BECAD6F63C857B1A0F189",
+  "force_update": false,
+  "feedback_url": "https://github.com/LittleBeaverStudio/Feedback/issues"
 }
