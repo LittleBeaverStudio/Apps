@@ -1,12 +1,12 @@
 ﻿{
     "store_url":  "https://apps.microsoft.com/detail/9PG13VD7JTGC?hl=zh-cn\u0026gl=CN\u0026ocid=pdpshare",
-    "release_notes":  "优化安装包版自动更新提醒，增强本地问答对年份、区间对比和“回款”科目的识别。",
-    "latest_version":  "1.7.3",
+    "release_notes":  "新增本机智能体 Skill 只读接口，支持本机智能体查询已导入财报数据；新增本机访问保护，普通访问网页端需输入访问密码；优化使用说明与访问保护界面。",
+    "latest_version":  "1.7.7",
     "name":  "小河狸财报助手",
     "app":  "financial-assistant",
     "direct_download_url":  "https://github.com/LittleBeaverStudio/Apps/releases/download/financial-assistant-latest/littlebeaver-financial-assistant-latest.exe",
     "download_url":  "https://littlebeaver.short.gy/VHBCeR",
-    "sha256":  "1b789510898877c0eb2e02652cadd6da47e8b795e806063e0295a8e134076ba4",
+    "sha256":  "44FE35310C3A33C234A8F5B4F4D23779B7A0BD182B3B031E62AC6CBF82D2E7CD",
     "force_update":  false,
     "feedback_url":  "https://github.com/LittleBeaverStudio/Feedback/issues"
 }
