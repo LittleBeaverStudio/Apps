@@ -1,11 +1,11 @@
 {
   "app": "invoice-assistant",
   "name": "小河狸发票助手",
-  "latest_version": "1.4.4",
+  "latest_version": "1.5.4",
   "download_url": "https://littlebeaver.short.gy/cFgKOr",
   "direct_download_url": "https://littlebeaver.short.gy/cFgKOr",
-  "release_notes": "支持导入专票认证明细表（电子税务局「用途确认信息表」），台账自动回填勾选状态、抵扣所属期、勾选日期；抵扣筛选一键统计未勾选专票（张数、税额自动合计）；分析看板新增认证数据覆盖度、抵扣时效、未勾选挂账分布、勾选稽核 4 张图表；界面全屏改版，宽屏一屏看全台账；支持在 WorkBuddy「专家/技能/连接器」中搜索“小河狸发票助手”一键安装，对话直接查询本机台账。",
-  "sha256": "F57B1D4667D64909F6598C9092B2A7253E5CC357B8E62198411A35B42D694524",
+  "release_notes": "新增「数据安全」页签：可查看数据存放位置与磁盘占用情况，支持把数据整体迁移到其他磁盘——迁移前自动生成快照，复制后校验数据完整性，迁移完成后可在应用内一键重启生效，并在下次启动时自动清理原目录；导入 Excel、扫描归档、删除公司前会自动生成数据快照（最多保留最近 5 份），可恢复到任意时间点，恢复前自动留存当前数据，避免误操作不可逆。",
+  "sha256": "894E44F65AEB6D715D140F263E1D0B68C7B42D5BDBB0CF0A91F650CF564CE3F6",
   "force_update": false,
-  "feedback_url": "https://github.com/LittleBeaverStudio/Feedback/issues"
+  "feedback_url": "https://littlebeaver.top/"
 }
