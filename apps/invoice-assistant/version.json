@@ -1,11 +1,11 @@
 {
   "app": "invoice-assistant",
   "name": "小河狸发票助手",
-  "latest_version": "1.5.4",
+  "latest_version": "1.6.8",
   "download_url": "https://littlebeaver.short.gy/cFgKOr",
   "direct_download_url": "https://littlebeaver.short.gy/cFgKOr",
-  "release_notes": "新增「数据安全」页签：可查看数据存放位置与磁盘占用情况，支持把数据整体迁移到其他磁盘——迁移前自动生成快照，复制后校验数据完整性，迁移完成后可在应用内一键重启生效，并在下次启动时自动清理原目录；导入 Excel、扫描归档、删除公司前会自动生成数据快照（最多保留最近 5 份），可恢复到任意时间点，恢复前自动留存当前数据，避免误操作不可逆。",
-  "sha256": "894E44F65AEB6D715D140F263E1D0B68C7B42D5BDBB0CF0A91F650CF564CE3F6",
+  "release_notes": "新增「税务申报」模块：支持导入增值税、企业所得税、附加税费等申报表，自动建立申报台账；申报数据与发票勾选抵扣状态联动核对，申报额与开票额趋势同屏对比；提供申报趋势、税种×期间分析看板；可一键查看申报表原件并生成只读分享链接，便于对外提供资料。",
+  "sha256": "036B24B190BE644D21320A865304BFDAE3A35DAAA6C9767B79932A30ED925E63",
   "force_update": false,
   "feedback_url": "https://littlebeaver.top/"
 }
