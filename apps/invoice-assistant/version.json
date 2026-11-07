@@ -1,11 +1,11 @@
 {
   "app": "invoice-assistant",
   "name": "小河狸发票助手",
-  "latest_version": "1.6.8",
+  "latest_version": "1.6.9",
   "download_url": "https://littlebeaver.short.gy/cFgKOr",
   "direct_download_url": "https://littlebeaver.short.gy/cFgKOr",
-  "release_notes": "新增「税务申报」模块：支持导入增值税、企业所得税、附加税费等申报表，自动建立申报台账；申报数据与发票勾选抵扣状态联动核对，申报额与开票额趋势同屏对比；提供申报趋势、税种×期间分析看板；可一键查看申报表原件并生成只读分享链接，便于对外提供资料。",
-  "sha256": "036B24B190BE644D21320A865304BFDAE3A35DAAA6C9767B79932A30ED925E63",
+  "release_notes": "修复部分 Windows 电脑安装后首次启动报错（Unhandled exception in script）的问题：启动不再受本机 Python / numpy 环境影响，装好即可直接打开。其余功能与 1.6.8 一致。",
+  "sha256": "F9B5C8243C4BBACD1E7BB916828570B1FB8D2813C063A77BABB3B26A449BA72B",
   "force_update": false,
   "feedback_url": "https://littlebeaver.top/"
 }
